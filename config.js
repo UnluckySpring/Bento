@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Edson',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Gmail',
+			icon: 'mails',
+			link: 'https://mail.google.com/mail/u/0/?pli=1#inbox',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Roblox',
+			icon: 'diamond',
+			link: 'https://www.roblox.com/home',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Forge',
+			icon: 'gavel',
+			link: 'https://www.curseforge.com/Minecraft/search?page=1&pageSize=20&sortType=1&class=mc-mods',
 		},
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'smile',
 			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Modrinth',
+			icon: 'shell',
+			link: 'https://modrinth.com/mods',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'I Cant Fix You',
+					link: 'https://www.youtube.com/watch?v=fgRfQLET4HE&list=PLh0vwRXQLE2U1FJtTatj0Nc3aFNisICfj&index=3',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Do You Even?',
+					link: 'https://www.youtube.com/watch?v=HnAkzzBqgB0&list=PLh0vwRXQLE2U1FJtTatj0Nc3aFNisICfj&index=8',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Dancing Down Below',
+					link: 'https://www.youtube.com/watch?v=p5I5TziXCys&list=PLh0vwRXQLE2U1FJtTatj0Nc3aFNisICfj&index=9',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Join Us For A Bite',
+					link: 'https://www.youtube.com/watch?v=dHlpa5utQzQ&list=PLh0vwRXQLE2U1FJtTatj0Nc3aFNisICfj&index=10',
 				},
 			],
 		},
